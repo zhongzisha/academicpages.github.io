@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,73 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+Education & Work Experiences
+---------
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+-   March 2017 – now, in the Department of Radiation Oncology, Department of Electronical and Computer Engineering, University of Iowa, Iowa City, USA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+    *Advisors: Prof. Xiaodong Wu and Prof. Yusung Kim*
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-   Fall 2010 – January 2017, in Pattern Recognition and Intelligent Systems, National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China
+
+    *Dissertation: Research on Feature Extraction methods for Hyperspectral Imagery Classification*
+
+    *Advisors: Prof. Chunhong Pan and Prof. Bin Fan*
+
+-   Fall 2006 – July 2010, in Control Science and Engineering, Department of Information Science and Engineering, Central South University, Hunan, China 
+
+    *Advisor: Assoc. Prof. Hang Zhang*
+
+Publications & Technical Reports
+---------
+
+1.  **Zisha Zhong**, Yusung Kim, Leixin Zhou, Kristin Plichta, Bryan Allen, John Buatti, and Xiaodong Wu. *anomymous title,*. **Submitted**.
+
+2.  Leixin Zhou, **Zisha Zhong**, Abhay Shah, Bensheng Qiu, and Xiaodong Wu. *anomymous title,*.
+    **Submitted**.
+
+3.  **Zisha Zhong**, Bin Fan, Chunlei Huo, Shiming Xiang, Chunhong Pan. *anomymous title*. 2018.
+    **Submitted**.
+
+4.  **Zisha Zhong**, Yusung Kim, Kristin Plichta, Bryan Allen, Leixin Zhou, John Buatti, and Xiaodong Wu. *anomymous title,* **Submitted**.
+
+5.  **Zisha Zhong**, Yusung Kim, Leixin Zhou, Kristin Plichta, Bryan Allen, John Buatti, and Xiaodong Wu. *3D Fully Convolutional Networks for Co-Segmentation of Tumors on PET-CT Images,* 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018), Washington, USA, 2018. Accepted.
+
+6.  **Zisha Zhong**, Yusung Kim, Leixin Zhou, Kristin Plichta, Bryan Allen, John Buatti, and Xiaodong Wu. *Improving Tumor Co-Segmentation on PET-CT Images with 3D Co-Matting,* 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018), Washington, USA, 2018. Accepted.
+
+7.  Xiaodong Wu, **Zisha Zhong**, John Buatti, Junjie Bai. *Multi-Scale Segmentation Using Deep Graph Cuts: Robust Lung Tumor Delineation in MVCBCT,* 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018), Washington, USA, 2018. Accepted.
+
+8.  **Zisha Zhong**, Yusung Kim, John Buatti, and Xiaodong Wu. *3D Alpha Matting Based Co-segmentation of Tumors on PET-CT Images* in Molecular Imaging, Reconstruction and Analysis of Moving Body Organs, and Stroke Imaging and Treatment, Lecture Notes in Computer Science, pp. 31-42. Springer, Cham, Sept. 2017. [**code**](https://pan.baidu.com/s/1ARVvXk3o9-4DT4sHVGXB1A)
+
+9.  **Zisha Zhong**, Bin Fan, Shiming Xiang, Chunlei Huo, Haichang Li, Chunhong Pan. *Structured Binary Feature Extraction for Hyperspectral Imagery Classification*. International Conference on Image Processing, 2017, 525-529.
+ [**code**](https://www.researchgate.net/publication/323429952_Structured_binary_feature_extraction_for_hyperspectral_imagery_classification_code).
+
+10. **Zisha Zhong**, Bin Fan, Kun Ding, Haichang Li, Shiming Xiang, Chunhong Pan. *Efficient Multiple Feature Fusion with Hashing for Hyperspectral Imagery Classification: A Comparative Study*. IEEE Transactions on Geoscience and Remote Sensing. 54(8): 4461-4478, 2016.
+ [**code and data**](https://www.researchgate.net/publication/310797647_Efficient_Multiple_Feature_Fusion_With_Hashing_for_Hyperspectral_Imagery_Classification_A_Comparative_Study_code_and_data), [**supplement**](https://www.researchgate.net/publication/304769019_Efficient_Multiple_Feature_Fusion_With_Hashing_for_Hyperspectral_Imagery_Classification_A_Comparative_Study_supplement)
+
+11. **Zisha Zhong**, Bin Fan, Jiangyong Duan, Lingfeng Wang, Kun Ding, Shiming Xiang, and Chunhong Pan. *Discriminant Tensor Spectral-Spatial Feature Extraction for Hyperspectral Image Classification*. IEEE Geoscience Remote Sensing Letter. 12(5): 1028-1032, 2015.
+
+12. Kun Ding, Chunlei Huo, Yuan Xu, **Zisha Zhong**, Chunhong Pan. Sparse Hierarchical Clustering for VHR Image Change Detection. IEEE Geoscience Remote Sensing Letter. 12(3): 577-581, 2015.
+
+13. Haichang Li, Shiming Xiang, **Zisha Zhong**, Kun Ding, Chunhong Pan. Multicluster Spatial-
+Spectral Unsupervised Feature Selection for Hyperspectral Image Classification. IEEE Geoscience
+Remote Sensing Letter. 12(8): 1660-1664, 2015.
+
+14. Yuan Xu, Kun Ding, Chunlei Huo, **Zisha Zhong**, Haichang Li, and Chunhong Pan. Multiscale
+Region-Level VHR Image Change Detection via Sparse Change Descriptor and Robust Discriminative
+Dictionary Learning. The Scientific World Journal, 2015.
+
+
+Professional Services
+---------
+
+1.  Reviewer on IEEE Transactions on Geoscience and Remote Sensing (journal)
+
+2.  Reviewer on IEEE Transactions on Cybernetics (journal)
+
+3.  Reviewer on Pattern Recognition Letters (journal)
+
+4.  Reviewer on Information Processing Letters (journal)
+
+5.  Reviewer on International Conference on Pattern Recognition
+    (conference)

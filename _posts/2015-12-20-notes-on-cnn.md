@@ -8,7 +8,7 @@ tags:
   - Computer Vision
 ---
 
-This is my study notes on the derivations for convolutional neural networks. If you have any question, please feel free to contact me by [zhongzisha@outlook.com](mailto:zhongzisha@outlook.com). Any comments are greatly appreciated!
+This is my study note on the derivations for convolutional neural networks. If you have any question, please feel free to contact me by [zhongzisha@outlook.com](mailto:zhongzisha@outlook.com). Any comments are greatly appreciated!
 
 Activation functions
 --------------------

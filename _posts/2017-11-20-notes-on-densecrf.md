@@ -9,7 +9,7 @@ tags:
   - Computer Vision
 ---
 
-This is my study notes on the detail derivations for DenseCRF. If you have any question, please feel free to contact me by [zhongzisha@outlook.com](mailto:zhongzisha@outlook.com). Any comments are greatly appreciated!
+This is my study note on the detail derivations for DenseCRF. If you have any question, please feel free to contact me by [zhongzisha@outlook.com](mailto:zhongzisha@outlook.com). Any comments are greatly appreciated!
 
 Dense CRF
 =========

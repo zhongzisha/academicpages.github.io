@@ -66,7 +66,7 @@ Region-Level VHR Image Change Detection via Sparse Change Descriptor and Robust 
 Dictionary Learning. The Scientific World Journal, 2015.
 
 
-Professional Services
+Scholarly Services
 ---------
 
 1.  Reviewer on IEEE Transactions on Geoscience and Remote Sensing (journal)

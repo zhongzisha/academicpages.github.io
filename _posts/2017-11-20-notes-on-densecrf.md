@@ -9,6 +9,7 @@ tags:
   - Computer Vision
 ---
 
+
 This is my study note on the detail derivations for DenseCRF. If you have any question, please feel free to contact me by [zhongzisha@outlook.com](mailto:zhongzisha@outlook.com). Any comments are greatly appreciated!
 
 Reference: Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials, Philipp Krähenbühl and Vladlen Koltun, NIPS 2011.

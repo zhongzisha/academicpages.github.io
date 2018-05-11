@@ -8,6 +8,7 @@ tags:
   - Computer Vision
 ---
 
+
 This is my study note on the derivations for recurrent neural networks.
 If you have any question, please feel free to contact me by [zhongzisha@outlook.com](mailto:zhongzisha@outlook.com).
 Any comments are greatly appreciated!

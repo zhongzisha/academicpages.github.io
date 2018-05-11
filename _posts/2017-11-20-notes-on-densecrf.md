@@ -11,7 +11,10 @@ tags:
 
 This is my study note on the detail derivations for DenseCRF. If you have any question, please feel free to contact me by [zhongzisha@outlook.com](mailto:zhongzisha@outlook.com). Any comments are greatly appreciated!
 
-Dense CRF
-=========
+<object data="https://zhongzisha.github.io/files/densecrf.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="https://zhongzisha.github.io/files/densecrf.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://zhongzisha.github.io/files/densecrf.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 

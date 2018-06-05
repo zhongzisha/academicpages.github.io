@@ -39,7 +39,7 @@ Publications & Technical Reports
 
 4.  **Zisha Zhong**, Yusung Kim, Kristin Plichta, Bryan Allen, Leixin Zhou, John Buatti, and Xiaodong Wu. *anomymous title,* **Submitted**.
 
-5.  **Zisha Zhong**, Yusung Kim, Leixin Zhou, Kristin Plichta, Bryan Allen, John Buatti, and Xiaodong Wu. *3D Fully Convolutional Networks for Co-Segmentation of Tumors on PET-CT Images,* 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018), Washington, USA, 2018. Accepted.
+5.  **Zisha Zhong**, Yusung Kim, Leixin Zhou, Kristin Plichta, Bryan Allen, John Buatti, and Xiaodong Wu. *3D Fully Convolutional Networks for Co-Segmentation of Tumors on PET-CT Images,* 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018), Washington, USA, 2018. Accepted. [**code**](https://github.com/zhongzisha/ISBI2018_PETCT_Segmentation)
 
 6.  **Zisha Zhong**, Yusung Kim, Leixin Zhou, Kristin Plichta, Bryan Allen, John Buatti, and Xiaodong Wu. *Improving Tumor Co-Segmentation on PET-CT Images with 3D Co-Matting,* 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018), Washington, USA, 2018. Accepted.
 

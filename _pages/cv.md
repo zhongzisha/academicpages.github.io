@@ -45,7 +45,7 @@ Publications & Technical Reports
 
 7.  Xiaodong Wu, **Zisha Zhong**, John Buatti, Junjie Bai. *Multi-Scale Segmentation Using Deep Graph Cuts: Robust Lung Tumor Delineation in MVCBCT,* 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018), Washington, USA, 2018. Accepted.
 
-8.  **Zisha Zhong**, Yusung Kim, John Buatti, and Xiaodong Wu. *3D Alpha Matting Based Co-segmentation of Tumors on PET-CT Images* in Molecular Imaging, Reconstruction and Analysis of Moving Body Organs, and Stroke Imaging and Treatment, Lecture Notes in Computer Science, pp. 31-42. Springer, Cham, Sept. 2017. [**code**](https://pan.baidu.com/s/1ARVvXk3o9-4DT4sHVGXB1A)
+8.  **Zisha Zhong**, Yusung Kim, John Buatti, and Xiaodong Wu. *3D Alpha Matting Based Co-segmentation of Tumors on PET-CT Images* in Molecular Imaging, Reconstruction and Analysis of Moving Body Organs, and Stroke Imaging and Treatment, Lecture Notes in Computer Science, pp. 31-42. Springer, Cham, Sept. 2017. [**code**](https://github.com/zhongzisha/CMMI2017_PETCT_3D_ALPHA_MATTING)
 
 9.  **Zisha Zhong**, Bin Fan, Shiming Xiang, Chunlei Huo, Haichang Li, Chunhong Pan. *Structured Binary Feature Extraction for Hyperspectral Imagery Classification*. International Conference on Image Processing, 2017, 525-529.
  [**code**](https://www.researchgate.net/publication/323429952_Structured_binary_feature_extraction_for_hyperspectral_imagery_classification_code).

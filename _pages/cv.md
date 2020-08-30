@@ -11,8 +11,11 @@ redirect_from:
 
 Education & Work Experiences
 ---------
+-   December 2018 – now, assistant researcher, in the Institute of Automation, Chinese Academy of Sciences, Beijing, China
 
--   March 2017 – now, in the Department of Radiation Oncology, Department of Electronical and Computer Engineering, University of Iowa, Iowa City, USA
+    *Advisors: Prof. Chunhong Pan and Prof. Shiming Xiang
+
+-   March 2017 – July 2018, in the Department of Radiation Oncology, Department of Electronical and Computer Engineering, University of Iowa, Iowa City, USA
 
     *Advisors: Prof. Xiaodong Wu and Prof. Yusung Kim*
 
@@ -29,15 +32,13 @@ Education & Work Experiences
 Publications & Technical Reports
 ---------
 
-1.  **Zisha Zhong**, Yusung Kim, Leixin Zhou, Kristin Plichta, Bryan Allen, John Buatti, and Xiaodong Wu. *anomymous title,*. **Submitted**.
+1. **Zisha Zhong**, Yusung Kim, Leixin Zhou, Kristin Plichta, Bryan Allen, John Buatti, and Xiaodong Wu. DFCN-CoCRF: Simultaneous cosegmentation of tumors in PET-CT images,  Technical Report, 2019.
 
-2.  Leixin Zhou, **Zisha Zhong**, Abhay Shah, Bensheng Qiu, and Xiaodong Wu. *anomymous title,*.
-    **Submitted**.
+2. Leixin Zhou, **Zisha Zhong**, Abhay Shah, Bensheng Qiu, and Xiaodong Wu. Deep Neural Networks for Surface Segmentation Meet Conditional Random Fields. https://arxiv.org/abs/1906.04714, 2019. **Submitted**.
 
-3.  **Zisha Zhong**, Bin Fan, Chunlei Huo, Shiming Xiang, Chunhong Pan. *anomymous title*. 2018.
-    **Submitted**.
+3.  **Zisha Zhong**, Bin Fan, Chunlei Huo, Shiming Xiang, Chunhong Pan. Context Window based Recurrent Neural Network for Hyperspectral Imagery Classification. **Submitted**, 2018. 
 
-4.  **Zisha Zhong**, Yusung Kim, Kristin Plichta, Bryan Allen, Leixin Zhou, John Buatti, and Xiaodong Wu. *anomymous title,* **Submitted**.
+4.  **Zisha Zhong**, Yusung Kim, Kristin Plichta, Bryan Allen, Leixin Zhou, John Buatti, and Xiaodong Wu. Simultaneous cosegmentation of tumors in PET-CT images using deep fully convolutional networks, Medical Physics, 2018, 46(2): 619-633. [**code**](https://github.com/zhongzisha/ISBI2018_PETCT_Segmentation)
 
 5.  **Zisha Zhong**, Yusung Kim, Leixin Zhou, Kristin Plichta, Bryan Allen, John Buatti, and Xiaodong Wu. *3D Fully Convolutional Networks for Co-Segmentation of Tumors on PET-CT Images,* 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018), Washington, USA, 2018. Accepted. [**code**](https://github.com/zhongzisha/ISBI2018_PETCT_Segmentation)
 
